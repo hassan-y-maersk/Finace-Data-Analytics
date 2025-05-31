@@ -1,0 +1,50 @@
+HDFC Bank,Retail Banking,C,300,Bangalore
+ICICI Bank,Loans,A,315,Pune
+SBI,Mutual Funds,C,967,Chennai
+IndusInd,Corporate Banking,B+,824,Pune
+BOB,Retail Banking,C,897,Pune
+Axis Bank,Loans,B+,534,Delhi
+ICICI Bank,Mutual Funds,C,517,Bangalore
+IDFC First,Corporate Banking,C,609,Pune
+Axis Bank,Investment Banking,B,428,Delhi
+HDFC Bank,Corporate Banking,A,306,Pune
+ICICI Bank,Loans,A,710,Mumbai
+HDFC Bank,Mutual Funds,A+,229,Bangalore
+Yes Bank,Mutual Funds,B+,165,Mumbai
+PNB,Retail Banking,B,740,Chennai
+IDFC First,Retail Banking,B+,403,Bangalore
+BOB,Retail Banking,C,668,Pune
+Axis Bank,Mutual Funds,B+,846,Mumbai
+IndusInd,Corporate Banking,A+,440,Hyderabad
+Yes Bank,Corporate Banking,B+,922,Delhi
+BOB,Corporate Banking,C,149,Bangalore
+BOB,Investment Banking,B,380,Pune
+ICICI Bank,Investment Banking,A,598,Bangalore
+HDFC Bank,Investment Banking,B,393,Bangalore
+BOB,Investment Banking,B,950,Mumbai
+IndusInd,Mutual Funds,A,109,Bangalore
+PNB,Retail Banking,B,648,Bangalore
+IndusInd,Retail Banking,C,240,Hyderabad
+Kotak,Mutual Funds,A,939,Chennai
+PNB,Investment Banking,A+,516,Pune
+SBI,Corporate Banking,A+,366,Mumbai
+PNB,Loans,B+,438,Bangalore
+PNB,Mutual Funds,B,982,Chennai
+HDFC Bank,Loans,A,563,Pune
+IndusInd,Mutual Funds,A+,204,Chennai
+Yes Bank,Corporate Banking,A+,868,Delhi
+ICICI Bank,Retail Banking,B,329,Hyderabad
+Kotak,Corporate Banking,B+,599,Chennai
+SBI,Mutual Funds,C,746,Delhi
+Axis Bank,Corporate Banking,C,952,Mumbai
+Axis Bank,Mutual Funds,A+,473,Mumbai
+HDFC Bank,Loans,A+,296,Mumbai
+PNB,Loans,A+,763,Mumbai
+Yes Bank,Investment Banking,B,731,Bangalore
+Kotak,Loans,A+,387,Delhi
+Kotak,Investment Banking,A,106,Pune
+PNB,Retail Banking,C,871,Pune
+IndusInd,Corporate Banking,A+,903,Mumbai
+BOB,Corporate Banking,B,790,Delhi
+PNB,Investment Banking,B,390,Hyderabad
+ICICI Bank,Investment Banking,A+,161,Pune
